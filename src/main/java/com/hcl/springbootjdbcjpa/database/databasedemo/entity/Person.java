@@ -1,4 +1,4 @@
-package com.in28minutes.database.databasedemo.entity;
+package com.hcl.springbootjdbcjpa.database.databasedemo.entity;
 
 import java.util.Date;
 
